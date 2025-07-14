@@ -24,9 +24,13 @@ Code review is a crucial part of any development process because:
 
 As you receive feedback and continue working on your portfolio, make sure to [make a git commit and push to GitHub](/lessons/github-codespaces-vscode#7-save-your-work-with-git) so your repository has the latest changes.
 
-- Submit your portfolio project code and have it reviewed by a peer. It should look something like `https://github.com/<username>/portfolio`
-{ .free_text #submit_github_repository }
+- Submit your portfolio project code and have it reviewed by a peer. It should look something like `https://github.com/<username>/portfolio`.
+- github.com
+  - Great job!
+- any
+  - Not quite. Make sure the URL looks like: `https://github.com/<username>/portfolio`
+{: .free_text #submit_github_repository }
 
 <aside class="warning">
-  Return to canvas and submit the url again in the assignment "Submit your Link-in-bio GitHub repository URL"
+  Return to canvas and submit the url again in the assignment "Submit your Link-in-bio GitHub repository URL". An instructor will provide additional feedback.
 </aside>
