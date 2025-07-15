@@ -1,4 +1,4 @@
-# Portfolio Project Code Review
+# Portfolio Code Review
 
 It's time for your first code review. Have your code reviewed (and reviewing other people's code) is a fundamental aspect of being a software developer.
 
