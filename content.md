@@ -2,14 +2,6 @@
 
 It's time for your first code review. Have your code reviewed (and reviewing other people's code) is a fundamental aspect of being a software developer.
 
-## Requirements
-
-Make sure that your portfolio project has all of the following elements:
-
-- At least one image
-- At least three links
-- At least three CSS styling rules
-
 ## Why is Code Review Important?
 
 Code review is a crucial part of any development process because:
@@ -23,6 +15,14 @@ Code review is a crucial part of any development process because:
 ## Continuos Improvement
 
 As you receive feedback and continue working on your portfolio, make sure to [make a git commit and push to GitHub](/lessons/github-codespaces-vscode#7-save-your-work-with-git) so your repository has the latest changes.
+
+## Requirements
+
+Make sure that your portfolio project has all of the following elements:
+
+- At least one image
+- At least three links
+- At least three CSS styling rules
 
 - Submit your portfolio project code and have it reviewed by a peer. It should look something like `https://github.com/<username>/portfolio`.
 {: .free_text #submit_github_repository }
